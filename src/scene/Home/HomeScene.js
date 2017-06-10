@@ -1,8 +1,8 @@
 /**
- * Copyright (c) 2017-present, Liu Jinyong
+ * Copyright (c) 2017-present, dudongge
  * All rights reserved.
  *
- * https://github.com/huanxsd/MeiTuan 
+ * https://github.com/dudongge/DDGMeiTuan
  * copyright by dudodongge
  */
 
@@ -28,7 +28,7 @@ class HomeScene extends Component {
         headerTitle: (
             <TouchableOpacity style={styles.searchBar}>
                 <Image source={require('../../img/Home/search_icon.png')} style={styles.searchIcon} />
-                <Paragraph>一点点</Paragraph>
+                <Paragraph>一点我搜索</Paragraph>
             </TouchableOpacity>
         ),
         headerRight: (
@@ -41,7 +41,7 @@ class HomeScene extends Component {
         ),
         headerLeft: (
             <NavigationItem
-                title='福州'
+                title='上海'
                 titleStyle={{ color: 'white' }}
                 onPress={() => {
 

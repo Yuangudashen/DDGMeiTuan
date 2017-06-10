@@ -1,8 +1,11 @@
-//
-//  Created by Liu Jinyong on 17/4/5.
-//  Copyright © 2016年 Liu Jinyong. All rights reserved.
-//
-//  Github:
+/**
+ * Copyright (c) 2017-present, dudongge
+ * All rights reserved.
+ *
+ * https://github.com/dudongge/DDGMeiTuan
+ * copyright by dudodongge
+ */
+
 //  https://github.com/huanxsd/react-native-refresh-list-view
 
 //import liraries

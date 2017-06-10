@@ -1,10 +1,11 @@
 /**
- * Copyright (c) 2017-present, Liu Jinyong
+ * Copyright (c) 2017-present, dudongge
  * All rights reserved.
  *
- * https://github.com/huanxsd/MeiTuan  
- * @flow
+ * https://github.com/dudongge/DDGMeiTuan
+ * copyright by dudodongge
  */
+
 
 export default {
     Idle: 'Idle',

@@ -1,4 +1,11 @@
-//import liraries
+/**
+ * Copyright (c) 2017-present, dudongge
+ * All rights reserved.
+ *
+ * https://github.com/dudongge/DDGMeiTuan
+ * copyright by dudodongge
+ */
+
 import React, { Component } from 'react';
 import { Image } from 'react-native';
 
