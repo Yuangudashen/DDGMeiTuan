@@ -6,19 +6,19 @@ Github：https://github.com/dudongge/DDGMeiTuan
 
 ##  screen shot for iOS
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_0.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/iOS_0.png">
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_1.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/iOS_1.png">
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/iOS_2.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/iOS_2.png">
 
 ## screen shot for Android
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_0.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_0.png">
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_1.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_1.png">
 
-<img src="https://github.com/huanxsd/MeiTuan/blob/master/screenshot/Android_2.png">
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_2.png">
 
 ## Setup
 
