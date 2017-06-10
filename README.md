@@ -106,7 +106,7 @@ App中很多页面都使用了同一个网络接口，这不是为了让代码�
 
 ```
 $ git clone https://github.com/dudongge/DDGMeiTuan.git
-$ cd MeiTuan
+$ cd DDGMeiTuan
 ```
 
 2. **Install dependencies** (npm v3+)
