@@ -21,3 +21,6 @@ export default class MeiTuan extends Component {
 }
 
 AppRegistry.registerComponent('MeiTuan', () => MeiTuan);
+
+
+

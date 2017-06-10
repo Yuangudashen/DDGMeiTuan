@@ -28,7 +28,7 @@ class HomeScene extends Component {
         headerTitle: (
             <TouchableOpacity style={styles.searchBar}>
                 <Image source={require('../../img/Home/search_icon.png')} style={styles.searchIcon} />
-                <Paragraph>一点我搜索</Paragraph>
+                <Paragraph>点我搜索</Paragraph>
             </TouchableOpacity>
         ),
         headerRight: (
@@ -171,7 +171,8 @@ class HomeScene extends Component {
     }
 
     onMenuSelected(index: number) {
-        alert(index)
+        let s = String(index);
+        alert("您点击了"+s+" 还未开通敬请期待！")
     }
 
 

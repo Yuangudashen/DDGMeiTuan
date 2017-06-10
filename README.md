@@ -2,7 +2,8 @@
 
 Github：https://github.com/dudongge/DDGMeiTuan
 
-简书：http://www.jianshu.com/p/9211f42d5c25
+简书：http://www.jianshu.com/p/42097aa798fa
+
 
 ##  screen shot for iOS
 
@@ -12,6 +13,7 @@ Github：https://github.com/dudongge/DDGMeiTuan
 
 <img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/iOS_2.png">
 
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/iOS_3.png">
 ## screen shot for Android
 
 <img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_0.png">
@@ -20,13 +22,15 @@ Github：https://github.com/dudongge/DDGMeiTuan
 
 <img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_2.png">
 
+<img src="https://github.com/dudongge/DDGMeiTuan/blob/master/screenshot/Android_3.png">
+
 ## Setup
 
 1. **Clone the repo**
 
 ```
-$ git clone https://github.com/huanxsd/MeiTuan.git
-$ cd MeiTuan
+$ git clone https://github.com/dudongge/DDGMeiTuan.git
+$ cd DDGMeiTuan
 ```
 
 2. **Install dependencies** (npm v3+):
@@ -59,8 +63,6 @@ $ react-native start
 
 ## Contact
 
-If you have any suggestions, leave a message here
-[简书](http://www.jianshu.com/p/9211f42d5c25)
 
 ## At last
 
@@ -71,13 +73,16 @@ If you like this project, please give me a star  :)
 
 ## 简介
 
+
 这是一个用React-Native写的美团客户端。
 
 使用了React-Native 0.44.0版本。遵循ES6语法。
 
 主要实现了美团的四个一级页面（团购、附近、订单、我的），以及部分二级页面（团购详情、Web页面）。
 
-所有功能都是用JavaScript写的，iOS和Android的代码复用率达到了97%（别问我这个数字怎么来的，我瞎掰的）。
+所有功能都是用JavaScript写的，iOS和Android的代码复用率达到了100%（因为只写了一套代码）。
+
+开发时所用的工具是webStrom. 安装破解汉化 http://www.jianshu.com/p/97bb2096c24c。
 
 这个Demo的静态类型检查工具使用了Facebook的Flow。它让我写JavaScript的时候，更有安全感。个人觉得可以用两个字形容这个工具，那就是：灰常牛逼！
 
@@ -85,17 +90,10 @@ If you like this project, please give me a star  :)
 
 该项目没有使用Redux。因为个人觉得目前大部分的中小型App并不需要Redux。如果盲目的将Redux添加到项目中，并不能带来太多的益处。
 
-鲁迅曾说过：
-> "如果你不知道是否需要 Redux，那就是不需要它。"
-
-Redux的作者 Dan Abramov 说过：
-> "只有遇到 React 实在解决不了的问题，你才需要 Redux 。"
-
-哦，另外一个没有用Redux的原因，是我还不太会用。
 
 App的页面跳转、TabBar、Navigation，全部通过[react-navigation](https://github.com/react-community/react-navigation)实现。这是一个非常牛逼的库，可以实现很多自定义的跳转功能。最早是通过[react-native-router-flux](https://github.com/aksonov/react-native-router-flux)实现跳转。在遇见react-navigation后，我果断放弃了react-native-router-flux。
 
-App中很多页面都使用了同一个网络接口，这不是为了让代码更加简洁，仅仅是我偷懒 >.<
+App中很多页面都使用了同一个网络接口，这不是为了让代码更加简洁，因为接口有限😑 >.<
 
 ## 第三方依赖
 
@@ -107,7 +105,7 @@ App中很多页面都使用了同一个网络接口，这不是为了让代码�
 1. **Clone the repo**
 
 ```
-$ git clone https://github.com/huanxsd/MeiTuan.git
+$ git clone https://github.com/dudongge/DDGMeiTuan.git
 $ cd MeiTuan
 ```
 
@@ -133,27 +131,13 @@ $ react-native run-ios
 $ react-native start
 ```
 
-## 瞎扯蛋
 
-我之前一直在写Objective-C，但不久前看了ES6的语法和Flex布局方式后，我便马上爱上了这种开发方式。
 
-这个Demo花了大概5天时间，是我的第一个ReactNative项目。
+## 如果对您有帮助，开心的给个star吧
+江南烟雨绕城郭，
+白银盘里绕青螺。
+天下儿女多才俊，
+最是风流杜东阁
+--目前就职于上海二三四五网络 希望和各路大神交流切磋。
+Github：https://github.com/dudongge/DDGMeiTuan
 
-如果对这个Demo有任何的意见或建议，或者喜欢ReactNative的朋友，欢迎在下方留言。我会在第一时间回复 :)
-
-另外，不要问我为什么英文说明那么点，中文说明这么多。怪英语老师咯
-
-## 最后
-
-如果你喜欢这个Demo，请给我一个star   :)
-
-Github：https://github.com/huanxsd/MeiTuan
-
-我将持续更新这个Demo
-
-如果你有任何的意见或建议，或者对App感兴趣，赶紧联系我
-QQ：67111677
-
-如果对这个Demo有任何疑问，欢迎加入我们的大家庭
-
-![ReactNative开发者群二维码.png](http://upload-images.jianshu.io/upload_images/5685774-957c90b45c8f8912.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
